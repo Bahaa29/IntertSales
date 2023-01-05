@@ -1,8 +1,8 @@
 # World Intertnet Sales
 ## Overview
 
-This an End to End project about world internet sales the data is AdventureWorks ,download it and start from read the requirment 
-then full the use cases and start work with the data and the last step is try to have insight from the data and built the final report 
+This an End to End project about internet sales,this data is AdventureWorks ,i download it and start read the requirment 
+then full the use cases and start work with the data to make it fit for what i need and the last step is try to have insight from the data and built the final report 
 
 ## Data Source
 
