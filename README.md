@@ -41,7 +41,8 @@ Internet Sales
 
 ## Rreport Overview 
 
-The report contain three view 
+The report contain three views
+
 1.Sales Overview
 ![image](https://user-images.githubusercontent.com/51878421/210841473-48157ea5-4179-4673-9aa6-447638fbab5d.png)
 2.Customer details 
