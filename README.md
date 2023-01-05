@@ -1,8 +1,8 @@
 # World Intertnet Sales
 ## Overview
 
-This an End to End project about world internet sales i start from read the requirment then full the use cases and start work with the data 
-and the last step is try to have insight from the data and built the final report 
+This an End to End project about world internet sales the data is AdventureWorks ,download it and start from read the requirment 
+then full the use cases and start work with the data and the last step is try to have insight from the data and built the final report 
 
 ## Data Source
 
@@ -33,4 +33,19 @@ Internet Sales
 |  |____ customer_dim.sql
 |  |____ product.sql
 ```
+
+## Requirment Demand 
+
+* User Stories Filled Out.docx file is the file that include all the work will be done in the report 
+* use_case.docx file contian all the requirment for the report 
+
+## Rreport Overview 
+
+The report contain three view 
+1.Sales Overview
+![image](https://user-images.githubusercontent.com/51878421/210841473-48157ea5-4179-4673-9aa6-447638fbab5d.png)
+2.Customer details 
+![image](https://user-images.githubusercontent.com/51878421/210841653-897d3031-a184-4aad-9063-75f95e96be0a.png)
+3.product details
+![image](https://user-images.githubusercontent.com/51878421/210841751-d33447af-72ab-49fa-8d16-edadcd1793ae.png)
 
