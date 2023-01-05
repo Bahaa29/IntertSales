@@ -42,6 +42,8 @@ Internet Sales
 ## Rreport Overview 
 
 The report contain three views
+* you can check this link to see the report 
+* https://app.powerbi.com/links/wGgaPnvug7?ctid=a019d16c-d606-4184-86ff-bbb6a8fa9f1a&pbi_source=linkShare&bookmarkGuid=2474c690-c733-418c-8c94-0b76ff55e36b
 
 1.Sales Overview
 ![image](https://user-images.githubusercontent.com/51878421/210841473-48157ea5-4179-4673-9aa6-447638fbab5d.png)
